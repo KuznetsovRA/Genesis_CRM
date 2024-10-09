@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/type.ts","./src/vite-env.d.ts","./src/store/entitystore.ts","./src/app.vue","./src/components/thebutton.vue","./src/components/thedropdown.vue","./src/components/theresultsdisplay.vue","./src/views/mainview.vue"],"version":"5.6.2"}

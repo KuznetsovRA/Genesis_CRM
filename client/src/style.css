@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: rgba(255, 255, 255, 0.87);
+	background-color: #0b172e;
+}
+
+#app {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+	body {
+		width: 600px;
+		overflow-x: auto;
+	}
+}
